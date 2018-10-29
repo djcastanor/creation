@@ -1,0 +1,32 @@
+4, 10, 11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+
+x=data.iloc[:,:-1]
+
+4	green
+3	blue
+3	blue
+2	red
+0	white
+1	black
+3	blue
+3	blue
+0	white
+2	red
+3	blue
+0	white
+4	green
+3	blue
+1	black
+2	red
+4	green
+0	white
+5	orange
+2	red
+3	blue
+4	green
+0	white
+0	white
+0	white
+2	red
+3	blue
+0	white
